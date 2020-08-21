@@ -3,16 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shlos1", "shlos1\shlos1.vcxproj", "{E8FE568E-127C-4353-8B32-30E2ABD30653}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shlos1", "Shlos1\Shlos1.csproj", "{CE7ABAA8-D800-49F5-8252-F6B1AF9EB50E}"
+>>>>>>> 2c09c1c5dc4be2343c8109d03e3977b802724f33
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
-		Release|x64 = Release|x64
-		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{E8FE568E-127C-4353-8B32-30E2ABD30653}.Debug|x64.ActiveCfg = Debug|x64
 		{E8FE568E-127C-4353-8B32-30E2ABD30653}.Debug|x64.Build.0 = Debug|x64
 		{E8FE568E-127C-4353-8B32-30E2ABD30653}.Debug|x86.ActiveCfg = Debug|Win32
@@ -21,11 +24,21 @@ Global
 		{E8FE568E-127C-4353-8B32-30E2ABD30653}.Release|x64.Build.0 = Release|x64
 		{E8FE568E-127C-4353-8B32-30E2ABD30653}.Release|x86.ActiveCfg = Release|Win32
 		{E8FE568E-127C-4353-8B32-30E2ABD30653}.Release|x86.Build.0 = Release|Win32
+=======
+		{CE7ABAA8-D800-49F5-8252-F6B1AF9EB50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7ABAA8-D800-49F5-8252-F6B1AF9EB50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7ABAA8-D800-49F5-8252-F6B1AF9EB50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7ABAA8-D800-49F5-8252-F6B1AF9EB50E}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 2c09c1c5dc4be2343c8109d03e3977b802724f33
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {A33F8FBB-BCBF-4B77-B298-60F43A9217C7}
+=======
+		SolutionGuid = {6A770C0C-01A8-4F0D-9F30-36C9CA74203B}
+>>>>>>> 2c09c1c5dc4be2343c8109d03e3977b802724f33
 	EndGlobalSection
 EndGlobal
