@@ -1,0 +1,4 @@
+D:\Yuval\Projects\BinaryTree\BinaryTree\bin\Release\BinaryTree.exe
+D:\Yuval\Projects\BinaryTree\BinaryTree\bin\Release\BinaryTree.pdb
+D:\Yuval\Projects\BinaryTree\BinaryTree\obj\x86\Release\BinaryTree.exe
+D:\Yuval\Projects\BinaryTree\BinaryTree\obj\x86\Release\BinaryTree.pdb
